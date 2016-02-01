@@ -2,7 +2,7 @@
 
 Line Integral Convolution using openGL shaders in GLSL.
 
-![alt text](images/sample.gif "screenshot")
+![alt text](images/output.gif "screenshot")
 
 ##Compile It
 
