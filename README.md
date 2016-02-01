@@ -18,9 +18,9 @@ make
 
 ./LIC
 
-Usage:
-./LIC [vertex shader] [fragment shader] [lic number of steps]
-Example usage:
+Usage:  
+./LIC [vertex shader] [fragment shader] [lic number of steps]  
+Example usage:  
 ./LIC ./src/vertex-shader ./src/fragment-shader 80
 
 
